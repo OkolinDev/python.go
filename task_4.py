@@ -14,4 +14,3 @@ while user_input >= 1:
         print("Максимальное цифра в числе ", max_number)
         break
 
-

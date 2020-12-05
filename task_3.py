@@ -3,4 +3,4 @@
 
 
 n = input('Введите число n: ')
-print(f'Общая сумма {n} + {n + n} + {n + n + n} равна: {int(str(n)) + int(str(n + n)) + int(str(n + n + n))}')
+print(f'Общая сумма {n} + {n * 2} + {n * 3} равна: {int(n) + int(n * 2) + int(n * 3)}')
